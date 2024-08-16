@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.bg {
+    height: 200vh;
+    width:auto;
+    position:fixed;
+    z-index:-1;
+}
